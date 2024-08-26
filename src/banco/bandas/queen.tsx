@@ -6,8 +6,8 @@ import '../../App.css';
 
 export default function Queen () {
     return (
-        <div className="container">
-            <Header></Header>
+        <div className="">
+            <Header />
             <h2>Queen</h2>
             <div className="ftbeatles">
             <img src="C:\Users\enrique.rlinares\Desktop\wiki2.0\src\banco\Imagens das Bandas\Queen_-_montagem.png" alt="" />
