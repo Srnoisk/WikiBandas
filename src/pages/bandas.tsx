@@ -18,7 +18,7 @@ export default function Bandas () {
                 
                 <ul id="artistList">
                     <li>AC/DC</li>
-                    <li>Alice in chains</li>
+                    <li><a href="/aliceinchains">Alice in chains</a></li>
                     <li>Bathory</li>
                     <li>Billie Eilish</li>
                     <li>Coldplay</li>
@@ -34,8 +34,8 @@ export default function Bandas () {
                     <li>Pink Floyd</li>
                     <li><a href="/queen">Queen</a></li>
                     <li>Rolling Stones</li>
-                    <li><a href="./Paginas do site(musicas)/the beatles.html">The Beatles</a></li>
-                    <li>The Offspring</li>
+                    <li><a href="/thebeatles">The Beatles</a></li>
+                    <li><a href="/offspring">The Offspring</a></li>
                     <li>U2</li>
                 </ul>
             </section>

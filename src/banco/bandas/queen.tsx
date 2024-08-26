@@ -2,7 +2,7 @@ import React from "react"
 import Header from "../../componentes/header/header"
 
 import '../../App.css';
-
+import queen from '../ImagensDasBandas/Queen_-_montagem.png'
 
 export default function Queen () {
     return (
@@ -10,9 +10,7 @@ export default function Queen () {
         <Header></Header>
         <section>
           <h2>Queen</h2>
-          {/* <div className="ftbeatles">
-          
-          </div> */}
+            <img className="ft-bandas" src={queen} alt="" />
           <h3>Análise</h3>
           <p className="informacoes_da_banda">
             O Queen é reconhecido por sua qualidade sonora excepcional, que

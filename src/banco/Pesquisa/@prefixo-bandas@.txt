@@ -1,0 +1,79 @@
+import React from "react";
+import Header from "../../componentes/header/header";
+
+import '../../App.css';
+import prefixo from '../ImagensDasBandas/Prefixo_-_montagem.png'; // Substitua pelo caminho da imagem do Prefixo
+
+export default function Prefixo() {
+    return (
+        <div className="">
+            <Header />
+            <section>
+                <h2>Prefixo</h2>
+                <img className="ft-bandas" src={prefixo} alt="Prefixo" />
+                <h3>Gênero Musical</h3>
+                <p className="informacoes_da_banda">
+                    O Prefixo é uma banda que se destaca no gênero [Gênero Musical], com uma forte influência de [Subgênero Musical]. Sua música combina elementos típicos do gênero,<br />
+                    criando um som que é ao mesmo tempo autêntico e inovador.
+                </p>
+
+                <h3>Data de Formação</h3>
+                <p className="informacoes_da_banda">
+                    Formado em [Ano de Formação], o Prefixo rapidamente se destacou na cena musical com sua abordagem única e energética.
+                </p>
+
+                <h3>Análise</h3>
+                <p className="informacoes_da_banda">
+                    O Prefixo é conhecido por sua abordagem única e inovadora dentro do gênero musical ao qual pertence. Com uma combinação de elementos sonoros,<br />
+                    arranjos distintos e uma abordagem criativa, a banda cria um som que é ao mesmo tempo envolvente e original. Suas letras e temas exploram uma<br />
+                    variedade de tópicos, adicionando profundidade às suas composições e destacando a banda como um dos nomes notáveis no cenário musical atual.
+                </p>
+
+                <h3>História</h3>
+                <p className="informacoes_da_banda">
+                    Formado em [Ano de Formação], o Prefixo começou a sua trajetória musical com um estilo que rapidamente chamou a atenção dos fãs e críticos.<br />
+                    A banda lançou seu álbum de estreia, "[Nome do Álbum]" em [Ano], que foi bem recebido e estabeleceu uma base sólida de seguidores. Desde então,<br />
+                    o Prefixo continuou a evoluir, explorando novos sons e estilos, e se apresentando em diversas turnês e festivais ao redor do mundo.
+                </p>
+
+                <h3>Importância Cultural</h3>
+                <p className="informacoes_da_banda">
+                    O Prefixo desempenha um papel significativo na cena musical ao trazer inovação e criatividade para o gênero. Sua capacidade de se reinventar e de<br />
+                    desafiar as convenções ajudou a moldar o cenário musical atual e a inspirar uma nova geração de músicos e ouvintes. A banda continua a ter um impacto<br />
+                    duradouro e a contribuir para a evolução da música.
+                </p>
+
+                <h3>Participantes</h3>
+                <ul>
+                    <li>[Nome do Membro 1]</li>
+                    <li>[Nome do Membro 2]</li>
+                    <li>[Nome do Membro 3]</li>
+                    <li>[Nome do Membro 4]</li>
+                </ul>
+
+                <h3>Origem</h3>
+                <ul>
+                    <li>[Cidade, País]</li>
+                </ul>
+
+                <h3>Discografia</h3>
+                <ul>
+                    <li>[Álbum 1] - [Data de Lançamento]</li>
+                    <li>[Álbum 2] - [Data de Lançamento]</li>
+                    <li>[Álbum 3] - [Data de Lançamento]</li>
+                    <li>[Álbum 4] - [Data de Lançamento]</li>
+                </ul>
+
+                <h3>Links Externos</h3>
+                <ul>
+                    <li>
+                        <a href="[URL do Website Oficial]">Website Oficial</a>
+                    </li>
+                    <li>
+                        <a href="[URL da Página no Facebook]">Página no Facebook</a>
+                    </li>
+                </ul>
+            </section>
+        </div>
+    );
+}

@@ -26,6 +26,11 @@ h1 {
   color: #CCCCCC; /* Cinza claro */
 }
 
+.ft-bandas {
+  height: 300px;
+  width: 300px;
+}
+
 /* Estilos para a barra de navegação */
 nav {
   background-color: #333333; /* Cinza escuro */
@@ -85,12 +90,9 @@ footer {
       padding: 5px;
   }
 /* Estilos para a imagem */
-  .ftbeatles {
-      max-width: 100%; /* Garante que a imagem não ultrapasse a largura do contêiner */
-      height: 100px; /* Mantém a proporção da imagem */
-      width: "200px";
-      display: block; /* Faz com que a imagem seja exibida como um bloco */
-      margin: 0 auto 20px; /* Adiciona margem inferior para separar a imagem do texto */
+  .ft-bandas {
+    height: 300px;
+    width: 300px;
   }
 
 }

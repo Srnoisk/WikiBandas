@@ -7,6 +7,9 @@ import Bandas from './pages/bandas';
 import Contato from './componentes/contato/contato';
 
 import Queen from './banco/bandas/queen';
+import Offspring from './banco/bandas/offspring';
+import AliceInChains from './banco/bandas/aliceinchains';
+import TheBeatles from './banco/bandas/beatles';
 
 function App() {
   return (
@@ -20,6 +23,10 @@ function App() {
         {/* rotas das bandas */}
 
         <Route path="/queen" element={<Queen />} />
+        <Route path="/offspring" element={<Offspring />} />
+        <Route path="/aliceinchains" element={<AliceInChains />} />
+        <Route path="/thebeatles" element={<TheBeatles />} />
+        
       </Routes>
     </div>
   );
