@@ -67,10 +67,16 @@ export default function Prefixo() {
                 <h3>Links Externos</h3>
                 <ul>
                     <li>
-                        <a href="[URL do Website Oficial]">Website Oficial</a>
+                        <a href="[URL do Website Oficial]" target="_blank" rel="noopener noreferrer">Website Oficial</a>
                     </li>
                     <li>
-                        <a href="[URL da Página no Facebook]">Página no Facebook</a>
+                        <a href="[URL da Página no Facebook]" target="_blank" rel="noopener noreferrer">Página no Facebook</a>
+                    </li>
+                    <li>
+                        <a href="[URL do Canal no YouTube]" target="_blank" rel="noopener noreferrer">Canal no YouTube</a>
+                    </li>
+                    <li>
+                        <a href="[URL da Página no Instagram]" target="_blank" rel="noopener noreferrer">Página no Instagram</a>
                     </li>
                 </ul>
             </section>
