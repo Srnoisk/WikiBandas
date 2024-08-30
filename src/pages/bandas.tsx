@@ -36,7 +36,7 @@ export default function Bandas () {
                     <li><a href="/therollingstones">The Rolling Stones</a></li>
                     <li><a href="/thebeatles">The Beatles</a></li>
                     <li><a href="/offspring">The Offspring</a></li>
-                    <li>U2</li>
+                    <li><a href="/u2">U2</a></li>
                 </ul>
             </section>
         </div>
