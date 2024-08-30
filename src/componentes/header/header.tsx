@@ -4,7 +4,7 @@ function Header () {
     return (
         <div>
         <header>
-        <h1>Wiki das bandas</h1>
+        <h1>Site das bandas</h1>
         </header>
 
         <nav>
