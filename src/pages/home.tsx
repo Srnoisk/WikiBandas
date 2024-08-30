@@ -11,7 +11,6 @@ export default function Home () {
                 <h2>Quem Somos?</h2>
                 <p>********</p>
             </section>
-            <a href="/Bandas/Queen">Queen</a>
         </div>
     )
 }
