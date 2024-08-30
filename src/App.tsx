@@ -22,6 +22,7 @@ import Ledzeppelin from './banco/bandas/ledzeppelin';
 import Marshmello from './banco/bandas/marshmello';
 import Matue from './banco/bandas/matue';
 import MCLan from './banco/bandas/mclan';
+import MichaelJackson from './banco/bandas/michaeljackson';
 
 function App() {
   return (
@@ -49,7 +50,7 @@ function App() {
         <Route path="/marshmello" element={<Marshmello />} />
         <Route path="/matue" element={<Matue />} />
         <Route path="/mclan" element={<MCLan />} />
-        
+        <Route path="/michaeljackson" element={<MichaelJackson />} />
         <Route path="/nirvana" element={<Nirvana />} />
         
       </Routes>
