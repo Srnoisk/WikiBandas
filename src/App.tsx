@@ -23,6 +23,7 @@ import Marshmello from './banco/bandas/marshmello';
 import Matue from './banco/bandas/matue';
 import MCLan from './banco/bandas/mclan';
 import MichaelJackson from './banco/bandas/michaeljackson';
+import PinkFloyd from './banco/bandas/pinkfloyd';
 
 function App() {
   return (
@@ -52,6 +53,7 @@ function App() {
         <Route path="/mclan" element={<MCLan />} />
         <Route path="/michaeljackson" element={<MichaelJackson />} />
         <Route path="/nirvana" element={<Nirvana />} />
+        <Route path="/pinkfloyd" element={<PinkFloyd />} />
         
       </Routes>
     </div>

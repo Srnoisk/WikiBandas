@@ -31,7 +31,7 @@ export default function Bandas () {
                     <li><a href="/mclan">MC Lan</a></li>
                     <li><a href="/michaeljackson">Michael jackson</a></li>
                     <li><a href="/nirvana">Nirvana</a></li>
-                    <li>Pink Floyd</li>
+                    <li><a href="/pinkfloyd">Pink Floyd</a></li>
                     <li><a href="/queen">Queen</a></li>
                     <li>Rolling Stones</li>
                     <li><a href="/thebeatles">The Beatles</a></li>
