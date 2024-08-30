@@ -29,14 +29,14 @@ export default function Bandas () {
                     <li><a href="/marshmello">Marshmello</a></li>
                     <li><a href="/matue">Matuê</a></li>
                     <li><a href="/mclan">MC Lan</a></li>
-                    <li>Michael jackson</li>
+                    <li><a href="/michaeljackson">Michael jackson</a></li>
                     <li><a href="/nirvana">Nirvana</a></li>
-                    <li>Pink Floyd</li>
+                    <li><a href="/pinkfloyd">Pink Floyd</a></li>
                     <li><a href="/queen">Queen</a></li>
-                    <li>Rolling Stones</li>
+                    <li><a href="/therollingstones">The Rolling Stones</a></li>
                     <li><a href="/thebeatles">The Beatles</a></li>
                     <li><a href="/offspring">The Offspring</a></li>
-                    <li>U2</li>
+                    <li><a href="/u2">U2</a></li>
                 </ul>
             </section>
         </div>
