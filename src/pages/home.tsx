@@ -9,7 +9,6 @@ export default function Home () {
                 <h2>Bem-vindo à Wiki das Bandas!</h2>
                 <p>Navegue pelos links acima para encontrar informações sobre bandas, gêneros musicais, história da música e muito mais!</p>
                 <h2>Quem Somos?</h2>
-                <p>********</p>
             </section>
         </div>
     )
