@@ -14,6 +14,9 @@ function Header () {
         <a href="#">História da Música</a>
         <a href="/contato">Contato</a>
         </nav>
+        <div>
+            
+        </div>
         </div>
     )
 }
