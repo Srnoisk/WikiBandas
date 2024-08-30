@@ -24,6 +24,7 @@ import Matue from './banco/bandas/matue';
 import MCLan from './banco/bandas/mclan';
 import MichaelJackson from './banco/bandas/michaeljackson';
 import PinkFloyd from './banco/bandas/pinkfloyd';
+import TheRollingStones from './banco/bandas/therollingstones';
 
 function App() {
   return (
@@ -54,7 +55,7 @@ function App() {
         <Route path="/michaeljackson" element={<MichaelJackson />} />
         <Route path="/nirvana" element={<Nirvana />} />
         <Route path="/pinkfloyd" element={<PinkFloyd />} />
-        
+        <Route path="/therollingstones" element={<TheRollingStones />} />
       </Routes>
     </div>
   );
