@@ -1,10 +1,10 @@
 import Header from "../componentes/header/header"
 import React from "react"
+import Carrousel from "../componentes/carrousel/carrousel"
 
 export default function Bandas () {
     return (
         <div>
-        
         <Header />
 
 
@@ -40,6 +40,8 @@ export default function Bandas () {
                 </ul>
             </section>
         </div>
+        <Carrousel></Carrousel>
+        
     </div>
     )
 }
