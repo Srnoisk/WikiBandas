@@ -219,6 +219,11 @@ export default function Carrousel() {
                     <a href="/henriquejuliano"><img src="https://images.genius.com/3bd85f3f671c64e0c5de3cf01c50d250.1000x1000x1.jpg" alt="Henrique & Juliano" /></a>
                     <p>Henrique & Juliano</p>
                 </div>
+                
+            </div>
+
+            <h1>Pagode</h1>
+            <div className="catalogue">
                 <div className="catalogue-item">
                     <a href="/exaltasamba"><img src="https://th.bing.com/th/id/OIP.D2ae0lGQeEglWetPPJzruQHaHa?rs=1&pid=ImgDetMain" alt="Exalta Samba" /></a>
                     <p>Exalta Samba</p>
